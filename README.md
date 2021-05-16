@@ -35,6 +35,12 @@ I play few video games. The only ones I play are mostly 16 and 32-bits era games
 
 # 🏗️ Activity on GitHub
 
-I may not be super-active here, because most of projects I work on are only local projects OR projects hosted on independant services. 
+I may not be super-active here, because most of projects I work on are only private/local projects OR projects hosted on independant services. 
+
+And now, time for stats!
+
+![Some general stats](https://github-readme-stats.vercel.app/api?username=villisek&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true&count_private=true)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villisek&layout=compact&langs_count=10)]
 
 I hope to meet you soon on a project! Toodaloo!
