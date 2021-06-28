@@ -18,7 +18,7 @@ My mother language is 🇫🇷 French, but I can also speak 🇬🇧 English and
 
 Well, let's try to summarize...
 
-| Domain               | Language      |
+| Domain               | Language or technology      |
 | --------------------:|:-------------:|
 | Web-development      | HTML/CSS/JS for front-end, Python/Django and a bit of PHP and C#/ASP.NET for back-end |
 | App & script making  | Rust/C/C++, a bit of Python and Java |
