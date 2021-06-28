@@ -6,6 +6,7 @@ I'm a 🇫🇷 French 👨🏼‍🎓 student in **🖳 Computer science and �
 
 # 🎓 Studies
 
+**[Update: I'm waiting for my exam results. There's 99.999% chances I succeed. I'll keep studying, but then to get a license-degree!]**
 I'm on the 2nd-year of a "BTS Systèmes numériques" (with the 🥐 accent 😛- equivalent to a technical degree or BTEC). 
 My exam will be in Q2-Q3 2021. 
 
