@@ -16,14 +16,14 @@ My mother language is 🇫🇷 French, but I can also speak 🇬🇧 English and
 
 # 👨🏼‍💻 Technical knowledge
 
-It'd be difficult to give an exhaustive list of what I can do in the digital world, but here are some stuff I can do:
-- Create websites in HTML, CSS, JS for the front-end. I'm learning Python and Django for back-end part. I have an old knowledge in PHP but I no longer really want to develop things in that language. 
-- I'm learning C and C++ at school. Will also start learning Java in class soon. 
-- I can configure Cisco routers for OSPF/RIP routing, I can too configure a NAT, a DHCP server (on Cisco but also with dnsmasq and ISC DHCP server on Linux)
-- I can also configure an Ubiquiti EdgeRouter (I use one for my room LAN, with a LAN inside my ISP's router LAN - yeah that's a LAN-ception). 
-- I can configure Apache and Nginx webservers on Linux and FreeBSD, along with MySQL and PostgreSQL databases (and I'm not scared by MS-SQL Server!)
-- I'm a newbie to BGP (I maintain AS4242420308 on the DN42 Network as VILLISEK-MNT). 
-- And much more!
+Well, let's try to summarize...
+
+| Domain               | Language      |
+| --------------------:|:-------------:|
+| Web-development      | HTML/CSS/JS for front-end, Python/Django and a bit of PHP and C#/ASP.NET for back-end |
+| App & script making  | Rust/C/C++, a bit of Python and Java |
+| Networking           | Cisco IOS, Ubiquiti EdgeMax, OSPF, RIP, BGP newbie, 802.1Q |
+
 
 # 🗓️ Sparetime
 ###  📻 Music
@@ -32,16 +32,10 @@ I listen music **a lot**. My favourite band is the british 🎸 "Dire Straits" b
 
 ### 🕹️ Video games
 
-I play few video games. The only ones I play are mostly 16 and 32-bits era games. I really like RPGs, as all my servers are named from characters in games of that genre. 
+I play few video games. The only ones I play are mostly 16 and 32-bits era games. I really like RPGs, as all my servers are named from characters in games of that genre. I also really like visual novels :-)
 
 # 🏗️ Activity on GitHub
 
 I may not be super-active here, because most of projects I work on are only private/local projects OR projects hosted on independant services. 
-
-And now, time for stats!
-
-![Some general stats](https://github-readme-stats.vercel.app/api?username=villisek&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true&count_private=true)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=villisek&layout=compact&langs_count=10)]
 
 I hope to meet you soon on a project! Toodaloo!
