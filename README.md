@@ -34,6 +34,10 @@ You may find my favourite musics playlist [on Tidal](https://tidal.com/browse/pl
 
 I don't play video games a lot, but when I play, I like old J-RPGs, old SNES games in general, and visual novels. 
 
+# Contact
+
+You can contact me on Matrix (`@clementv:mozilla.org`) or [on Mastodon/Friendica/Diaspora\*](https://soc.villisek.fr/) with an unique address: `@clement@soc.villisek.fr`
+
 # 🏗️ Activity on GitHub
 
 I may not be active here, because most of projects I work on are only private/local projects OR projects hosted on independant Git services. 
