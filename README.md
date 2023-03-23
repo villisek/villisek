@@ -38,7 +38,7 @@ I don't play video games a lot, but when I play, I like old J-RPGs, old SNES gam
 
 I have [a personal internet website](https://clement.villisek.fr/), which I recommend you to visit 😉. It contains my portfolio and blog. 
 
-You can also [chat with me on Matrix](https://matrix.to/#/@clementv:mozilla.org) (address: `@clementv:mozilla.org`) or find my social profile [on Mastodon/Misskey/Friendica/any other ActivityPub-compatible software\*](https://ck.villisek.fr/@clement) (address: `@clement@ck.villisek.fr`).
+You can also [chat with me on Matrix](https://matrix.to/#/@clementv:mozilla.org) (address: `@clementv:mozilla.org`) or find my social profile [on Mastodon/Misskey/Friendica/any other ActivityPub-compatible software](https://ck.villisek.fr/@clement) (address: `@clement@ck.villisek.fr`).
 
 # 🏗️ Activity on GitHub
 
