@@ -2,7 +2,7 @@ Hello!
 
 # 👨‍💻 Who am I?
 
-I'm a 🇫🇷 French engineering student in **Cybersecurity**, living in 🏴󠁦󠁲󠁢󠁦󠁣󠁿 Borugogne-Franche-Comté, France. 
+My name is Clément VILLISEK. I am a 🇫🇷 French engineering student in **Cybersecurity**, living in 🏴󠁦󠁲󠁢󠁦󠁣󠁿 Borugogne-Franche-Comté, France. 
 
 # 🎓 Studies
 
@@ -27,16 +27,18 @@ Well, let's try to summarize...
 # 🗓️ Sparetime
 ###  📻 Music
 
-I listen music **a lot**. My favourite band is the british 🎸 "Dire Straits" band.
+I listen to music **a lot**. My favourite band is the british 🎸 "Dire Straits" band.
 You may find my favourite musics playlist [on Tidal](https://tidal.com/browse/playlist/33a37fc8-537d-4e5a-9f2c-dd0e1bf089f2). 
 
 ### 🕹️ Video games
 
 I don't play video games a lot, but when I play, I like old J-RPGs, old SNES games in general, and visual novels. 
 
-# Contact
+# Get in touch!
 
-You can [contact me on Matrix](https://matrix.to/#/@clementv:mozilla.org) (address: `@clementv:mozilla.org`) or [on Mastodon/Misskey/Friendica/any other ActivityPub-compatible software\*](https://ck.villisek.fr/@clement) (address: `@clement@ck.villisek.fr`).
+I have [a personal internet website](https://clement.villisek.fr/), which I recommend you to visit 😉. It contains my portfolio and blog. 
+
+You can also [chat with me on Matrix](https://matrix.to/#/@clementv:mozilla.org) (address: `@clementv:mozilla.org`) or find my social profile [on Mastodon/Misskey/Friendica/any other ActivityPub-compatible software\*](https://ck.villisek.fr/@clement) (address: `@clement@ck.villisek.fr`).
 
 # 🏗️ Activity on GitHub
 
