@@ -36,7 +36,7 @@ I don't play video games a lot, but when I play, I like old J-RPGs, old SNES gam
 
 # Contact
 
-You can contact me on Matrix (`@clementv:mozilla.org`) or [on Mastodon/Friendica/Diaspora\*](https://soc.villisek.fr/) with an unique address: `@clement@soc.villisek.fr`
+You can [contact me on Matrix](https://matrix.to/#/@clementv:mozilla.org) (address: `@clementv:mozilla.org`) or [on Mastodon/Misskey/Friendica/any other ActivityPub-compatible software\*](https://ck.villisek.fr/@clement) (address: `@clement@ck.villisek.fr`).
 
 # 🏗️ Activity on GitHub
 
