@@ -2,7 +2,7 @@ Hello!
 
 # 👨‍💻 Who am I?
 
-My name is Clément VILLISEK. I am a 🇫🇷 French engineering student in **Cybersecurity**, living in 🏴󠁦󠁲󠁢󠁦󠁣󠁿 Borugogne-Franche-Comté, France. 
+My name is Clément VILLISEK. I am a 🇫🇷 French engineering student in **Cybersecurity**, living in 🏴󠁦󠁲󠁢󠁦󠁣󠁿 Bourgogne-Franche-Comté, France. 
 
 # 🎓 Studies
 
