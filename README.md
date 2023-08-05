@@ -1,4 +1,4 @@
-Hello! 
+Greetings! 
 
 # 👨‍💻 About Me
 
