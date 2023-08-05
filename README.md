@@ -12,7 +12,7 @@ I hold a **technical degree** (known as a "BTS" in French) in **Digital Systems:
 
 **Je parle 🇫🇷 français**, as it is my mother tongue; I am fluent in 🇬🇧 **English**, and I can chat away in 🇪🇸 **Spanish**.
 
-# 👨💻 Technical Proficiency
+# 👨🏻‍💻 Technical Proficiency
 
 I possess a **high degree of adaptability** and **can rapidly delve into and grasp new subjects**, whether they're related to technology, programming languages, or development environments.
 
@@ -31,7 +31,7 @@ I love listening to music. The iconic British 🎸 band "Dire Straits" holds a s
 
 While I'm not an avid gamer, I do enjoy indulging in vintage J-RPGs, classic SNES games, and engaging visual novels whenever the opportunity arises.
 
-# Reach out!
+# ✉️ Reach out!
 
 I invite you to explore [my personal website](https://www.cv.codes/), where you'll find my portfolio and blog, eagerly awaiting your visit 😉.
 
