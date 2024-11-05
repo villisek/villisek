@@ -35,7 +35,7 @@ While I'm not an avid gamer, I do enjoy indulging in vintage J-RPGs, classic SNE
 
 I invite you to explore [my personal website](https://www.cv.codes/), where you'll find my portfolio and blog, eagerly awaiting your visit 😉.
 
-For a chat, you can reach me on [Matrix](https://matrix.to/#/@clementv:mozilla.org) (address: `@clementv:mozilla.org`), or find my social profile on platforms like Iceshrimp, Firefish, Mastodon, or any other ActivityPub-compatible software through [this link](https://ck.villisek.fr/@clement) (address: `@clement@ck.villisek.fr`).
+For a chat, you can reach me on [Matrix](https://matrix.to/#/@clementv:mozilla.org) (address: `@clementv:mozilla.org`), or find my social profile on platforms like Iceshrimp, Firefish, Mastodon, or any other ActivityPub-compatible software through [this link](https://wizard.casa/@clemv) (address: `@clemv@wizard.casa`).
 
 # 🏗️ Activity on GitHub
 
